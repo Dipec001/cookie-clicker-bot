@@ -30,7 +30,7 @@ Setup
 
 1) Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/cookie-clicker-bot.git
+git clone https://github.com/dipec001/cookie-clicker-bot.git
 cd cookie-clicker-bot
 ```
 2) Install Dependencies:
@@ -52,4 +52,12 @@ python cookie_bot.py
 
 ## Demo
 
+
+Author
+
+Divine (@dipec001)
+
+License
+
+This project is licensed under the MIT License.
 

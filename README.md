@@ -1,4 +1,3 @@
-# cookie-clicker-bot
 <h1>Cookie Clicker Automation Bot</h1>
 
 Overview
@@ -51,6 +50,6 @@ python cookie_bot.py
 
 3) It runs for a fixed time (default: 5 minutes).
 
-##Demo
+## Demo
 
 

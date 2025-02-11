@@ -51,6 +51,7 @@ python cookie_clicker.py
 3) It runs for a fixed time (default: 5 minutes).
 
 ## Demo
+https://youtu.be/EKJVme7IoAI
 
 
 <h3>Author</h3>

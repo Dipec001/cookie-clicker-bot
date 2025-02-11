@@ -18,13 +18,13 @@ Features
 
 Prerequisites
 
-Python (3.x recommended)
+<li>Python (3.x recommended)</li>
 
-Google Chrome
+<li>Google Chrome</li>
 
-Chrome WebDriver (compatible with your Chrome version)
+<li>Chrome WebDriver (compatible with your Chrome version)</li>
 
-Selenium
+<li>Selenium</li>
 
 Setup
 

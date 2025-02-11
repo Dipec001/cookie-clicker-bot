@@ -1,20 +1,20 @@
 <h1>Cookie Clicker Automation Bot</h1>
 
-Overview
+<h3>Overview</h3>
 
 This project automates the Cookie Clicker game using Selenium WebDriver. The bot continuously clicks the cookie while monitoring available upgrades and purchasing the most expensive one that the player can afford.
 
 Features
 
-Automated Clicking: Continuously clicks the cookie.
+**Automated Clicking**: Continuously clicks the cookie.
 
-Upgrade Management: Checks available upgrades and buys the most expensive one within budget.
+**Upgrade Management**: Checks available upgrades and buys the most expensive one within budget.
 
-Dynamic Element Handling: Finds and interacts with page elements dynamically to avoid stale references.
+**Dynamic Element Handling**: Finds and interacts with page elements dynamically to avoid stale references.
 
-Optimized Execution: Runs for a specified duration (e.g., 5 minutes) with periodic checks for upgrades.
+**Optimized Execution**: Runs for a specified duration (e.g., 5 minutes) with periodic checks for upgrades.
 
-Installation
+<h3>Installation</h3>
 
 Prerequisites
 
@@ -44,7 +44,7 @@ pip install selenium
 
 1) Run the bot:
 ```bash
-python cookie_bot.py
+python cookie_clicker.py
 ```
 2) The bot will start clicking the cookie and buying upgrades.
 
@@ -53,11 +53,11 @@ python cookie_bot.py
 ## Demo
 
 
-Author
+<h3>Author</h3>
 
-Divine (@dipec001)
+<li>Divine (@dipec001)</li>
 
-License
+<h3>License</h3>
 
 This project is licensed under the MIT License.
 
